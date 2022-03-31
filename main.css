@@ -4,7 +4,7 @@
 }   
 
 body{
-    background-color: rgb(77, 193, 228);
+    background-image: url("assets/blackAbstractBackground.jpg");
     background-position:center;
     background-size:cover;
     font-family:serif;
@@ -43,7 +43,7 @@ input{
     height: 40px;
     top:0%;
     right:0%;
-    border: 1px solid grey;
+    border: 2px solid grey;
 }
 
 button{
